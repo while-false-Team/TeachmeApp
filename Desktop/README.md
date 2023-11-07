@@ -1,0 +1,3 @@
+# prototyp1
+pip install ...
+tkinter, customtkinter, argon2-cffi, googletranslator==4.0.0rc1, mysql.connector, pyperclip, packaging
